@@ -44,9 +44,3 @@ pos[8] = 9
 pos[9] = 10
 
 ```
-
-## Consideraciones:
-
-- Agregar a ésta carpeta el archivo `.java` que contenga la clase principal, así como su método `void main`
-- Hacer diferentes pruebas con numeros de input diferentes
-- Puedes desarrollar el algoritmo y su pseudocódigo
